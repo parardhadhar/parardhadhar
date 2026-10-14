@@ -1,55 +1,41 @@
-# 💫 About Me
+<a href="https://parardha.vercel.app"><img src="./assets/intro.svg" alt="Parardha Dhar — software engineer working across full stack, applied AI and interactive worlds" width="100%" /></a>
 
-I am a Computer Science undergraduate at VIT Bhopal focused on building high-performance, real-time software systems at the intersection of machine learning and simulation. I work with C++, Python, and Java, designing AI systems, deploying ML pipelines using Docker and Kubernetes, and building production-grade training and inference workflows.
+<p align="center">
+  <a href="https://parardha.vercel.app"><strong>PLAY THE PORTFOLIO ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/parardhadhar">LINKEDIN ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:parardhadhar@gmail.com">SAY HELLO ↗</a> &nbsp; / &nbsp;
+  <a href="https://parardha.vercel.app/Parardha_Dhar_SDE_Resume.pdf">RESUME ↗</a>
+</p>
 
-I lead the development of a real-time simulation platform in Unreal Engine, where I design physics systems, AI logic, and performance-optimized pipelines for large-scale interactive environments. In parallel, I build ML systems for cybersecurity, computer vision, and intelligent automation, including real-time phishing detection and sign-language recognition.
+### Research roots. Product mindset.
 
-I enjoy solving complex engineering problems and building systems that scale.
+I'm **Parardha**, a Computer Science undergraduate at **VIT Bhopal** and former **Machine Learning Research Intern at IISc Bangalore**. I build backend systems, AI-powered products, and interactive experiences—with as much care for the details as the architecture.
 
----
+- **Research → real tools.** At IISc, I worked on electron-microscopy analysis with PyTorch, OpenCV, FastAPI, and React/Electron, reducing manual defect calculation from **2+ hours to under 15 seconds per micrograph**.
+- **Code → production.** I independently built [VRGC Community Hub](https://vrgc.live), serving **1,800+ unique visitors** and **8,300+ page views**, with a **96/100 Vercel Real Experience Score**.
+- **Community → momentum.** Founder & President of the **Virtual Reality and Gaming Club** at VIT Bhopal. Always interested in the space where engineering meets imagination.
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parardhadhar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parardhadhar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parardhadhar@gmail.com)
+<br />
 
----
+<img src="./assets/approach.svg" alt="Understand the problem. Engineer solid foundations. Craft a clear experience." width="100%" />
 
-## 💻 Tech Stack
+<br />
 
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+### 02 / Selected work
 
-**Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<a href="https://github.com/parardhadhar/FlowHookCore#readme"><img src="./assets/flowhook.svg" alt="FlowHook — signed webhook automation, background queues and AI summarization. TypeScript, PostgreSQL, Redis. 13 signature and AI tests." width="49%" /></a>
+<a href="https://github.com/parardhadhar/grahak"><img src="./assets/grahak.svg" alt="Grahak — AI-assisted WhatsApp CRM with a customer inbox and persistent sync. Next.js, FastAPI, Groq. 23 backend tests." width="49%" /></a>
+<a href="https://github.com/parardhadhar/AI-Crystallography-Engine"><img src="./assets/tem-studio.svg" alt="TEM AI Studio — electron-microscopy research software built during my IISc internship. PyTorch, OpenCV and Electron." width="49%" /></a>
+<a href="https://parardha.vercel.app"><img src="./assets/island.svg" alt="The Island — my playable 3D portfolio with a drivable rover, working characters, day and night modes, and original audio." width="49%" /></a>
 
-**Systems & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://grahak-flame.vercel.app">Try Grahak ↗</a> &nbsp; · &nbsp;
+  <a href="https://vrgc.live">Visit VRGC ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/parardhadhar?tab=repositories">Explore all repositories ↗</a>
+</p>
 
-**Simulation & Graphics**  
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br />
 
----
+<img src="./assets/toolbox.svg" alt="My toolkit spans software engineering, applied AI, and interactive experiences. TypeScript, Python, Node.js, FastAPI, PostgreSQL, Redis, React, PyTorch, OpenCV, Three.js and Docker." width="100%" />
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=parardhadhar&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=parardhadhar&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parardhadhar&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parardhadhar&theme=radical&margin-w=8)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=parardhadhar&color=blue)
+<p align="center"><sub>Good systems are built with care. So are good collaborations.</sub><br /><a href="mailto:parardhadhar@gmail.com"><strong>Let’s build something worth using. ↗</strong></a></p>
