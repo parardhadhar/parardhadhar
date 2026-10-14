@@ -1,17 +1,35 @@
-<a href="https://parardha.vercel.app"><img src="./assets/intro-editorial.svg" alt="Parardha Dhar — Software Engineer. Full stack, applied AI and interactive worlds." width="100%" /></a>
+<img src="./assets/world-hub.svg" width="100%" alt="Parardha Dhar’s world: AI Crystallography research lab, FlowHook and Grahak product district, and playable 3D creative outpost. Open the missions below." />
 
-<p align="center"><a href="https://parardha.vercel.app">Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/parardhadhar">LinkedIn ↗</a> &nbsp; · &nbsp; <a href="mailto:parardhadhar@gmail.com">Email ↗</a> &nbsp; · &nbsp; <a href="https://parardha.vercel.app/Parardha_Dhar_SDE_Resume.pdf">Résumé ↗</a></p>
+<a href="https://parardha.vercel.app"><img src="./assets/play-world.svg" width="100%" alt="Play the 3D world — drive, meet the crew and discover my work. Opens the interactive portfolio." /></a>
 
-<a href="https://github.com/parardhadhar/AI-Crystallography-Engine"><img src="./assets/research-editorial.svg" alt="Flagship: AI Crystallography Engine / TEM AI Studio. PyTorch diffusion denoising improves downstream YOLOv11 defect detection accuracy by 45%. OpenCV 2D FFT and Burgers vectors on 50+ MP scans. Defect calculation from 2+ hours to under 15 seconds per micrograph. IISc Bangalore research internship." width="100%" /></a>
+<details>
+<summary><img src="./assets/mission-research.svg" width="100%" alt="Open mission 01 — Research lab / AI Crystallography" /></summary>
 
-<a href="https://vrgc.live"><img src="./assets/about-editorial.svg" alt="Computer Science at VIT Bhopal. Former ML Research Intern at IISc Bangalore. Founder and President of VRGC. Community Hub: 1,800+ unique visitors, 8,300+ page views, 96/100 experience score." width="100%" /></a>
+<a href="https://github.com/parardhadhar/AI-Crystallography-Engine"><img src="./assets/research-quest.svg" width="100%" alt="AI Crystallography: diffusion denoising, YOLOv11, 2D FFT and Burgers vectors. +45% downstream detection accuracy, 50+ MP scans, under 15 seconds per micrograph from 2+ hours. IISc research internship." /></a>
 
-<img src="./assets/work-editorial.svg" alt="Selected work — built to be used." width="100%" />
+</details>
 
-<a href="https://github.com/parardhadhar/FlowHookCore#readme"><img src="./assets/flowhook-editorial.svg" alt="FlowHook — webhook automation and AI summaries" width="100%" /></a>
+<details>
+<summary><img src="./assets/mission-products.svg" width="100%" alt="Open mission 02 — Product district / FlowHook and Grahak" /></summary>
 
-<a href="https://github.com/parardhadhar/grahak"><img src="./assets/grahak-editorial.svg" alt="Grahak — AI-assisted WhatsApp CRM" width="100%" /></a>
+<a href="https://github.com/parardhadhar/FlowHookCore#readme"><img src="./assets/flowhook-quest.svg" width="100%" alt="FlowHook — signed webhook automation and AI summaries" /></a>
 
-<a href="https://parardha.vercel.app"><img src="./assets/island-editorial.svg" alt="The Island — playable 3D portfolio" width="100%" /></a>
+<a href="https://github.com/parardhadhar/grahak"><img src="./assets/grahak-quest.svg" width="100%" alt="Grahak — AI-assisted WhatsApp CRM" /></a>
 
-<a href="mailto:parardhadhar@gmail.com"><img src="./assets/toolkit-editorial.svg" alt="Toolkit: TypeScript, Python, Node.js, FastAPI, PostgreSQL, Redis, PyTorch, OpenCV, React, Next.js, Three.js, Electron and Docker. Let’s build something worth using." width="100%" /></a>
+</details>
+
+<details>
+<summary><img src="./assets/mission-story.svg" width="100%" alt="Open mission 03 — Meet the player / research, education and community" /></summary>
+
+<a href="https://vrgc.live"><img src="./assets/about-quest.svg" width="100%" alt="Parardha: CS at VIT Bhopal, former ML Research Intern at IISc Bangalore, Founder and President of VRGC. Hub: 1,800+ unique visitors, 8,300+ views, 96/100 experience score." /></a>
+
+</details>
+
+<details>
+<summary><img src="./assets/mission-skills.svg" width="100%" alt="Open mission 04 — Inventory / technology toolkit" /></summary>
+
+<a href="mailto:parardhadhar@gmail.com"><img src="./assets/toolkit-quest.svg" width="100%" alt="Technology inventory: TypeScript, Python, Node, FastAPI, Postgres, Redis, PyTorch, OpenCV, React, Next, Three.js, Electron and Docker." /></a>
+
+</details>
+
+<p align="center"><a href="https://www.linkedin.com/in/parardhadhar">Connect ↗</a> &nbsp; · &nbsp; <a href="mailto:parardhadhar@gmail.com">Start a conversation ↗</a> &nbsp; · &nbsp; <a href="https://parardha.vercel.app/Parardha_Dhar_SDE_Resume.pdf">Résumé ↗</a></p>
